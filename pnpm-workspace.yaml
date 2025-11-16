@@ -1,7 +1,0 @@
-packages:
-  - .
-  
-onlyBuiltDependencies:
-  - '@clerk/shared'
-  - '@prisma/client'
-  - sharp
